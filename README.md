@@ -1,10 +1,17 @@
-- Hi 👋, **I'm Enes Malik Demir.**
+<h1 align="center">sasa sasa</h1>
+<h3 align="center">👋 Hi, I'm Enes Malik Demir.</h3>
 
-- 📫 How to reach me **emd3356@gmail.com**
+- 🏫 **I am a computer programming student at Nigde Omer Halisdemir University.**
+
+- 📫 How to reach me [emd3356@gmail.com](emd3356@gmail.com)
+
+- 💻 **My interest in computer programming dates back to my childhood. With the rapid development of technology, I decided to improve myself in this field and started studying computer programming at university. I am constantly striving to develop myself by working on projects related to programming languages and different technologies.**
+
+- 📏 **Additionally, I am interested in graphic design and have accomplished many projects and achieved success in this field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/enes-malik-demir-47b4b8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enes-malik-demir-47b4b8268/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enes-malik-demir-47b4b8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-malik-demir-47b4b8268/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
