@@ -1,4 +1,4 @@
-Hi 👋, I'm Enes Malik Demir. 
+- Hi 👋, I'm Enes Malik Demir. 
 
 - 🏫 **I am a computer programming student at Nigde Omer Halisdemir University.**
 
