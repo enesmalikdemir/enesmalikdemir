@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Enes Malik Demir</h1>
 <h3 align="center">Hi 👋, I'm Enes Malik Demir. I am a computer programming student at Nigde Omer Halisdemir University. My interest in computer programming dates back to my childhood. With the rapid development of technology, I decided to improve myself in this field and started studying computer programming at university. I am constantly striving to develop myself by working on projects related to programming languages and different technologies. Additionally, I am interested in graphic design and have accomplished many projects and achieved success in this field.</h3>
 
 - 📫 How to reach me **emd3356@gmail.com**
