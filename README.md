@@ -6,7 +6,7 @@
 
 - 📏 **I am also interested in graphic design and I have signed many projects in this field.**
 
-- 📫 How to reach me **emd3356@gmail.com**
+- 📫 How to reach me **enesmalikdemirr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
